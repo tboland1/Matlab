@@ -1,4 +1,5 @@
 %% Look for the dark green %% areas in the code. Enter the information requested.
+%% For MatLab Version 2016b on a linux OS
 
 % get the path of the zotero library
 %% Enter the path of the zotero storage & pdf storage folder here
